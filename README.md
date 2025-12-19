@@ -53,7 +53,7 @@ The remote application exposes shared components:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/rvega1204/micro-frontends.git
 cd micro-frontends
 ```
 
